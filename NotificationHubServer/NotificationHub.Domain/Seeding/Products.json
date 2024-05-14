@@ -1,0 +1,16 @@
+[
+  {
+    "ProductId": "P01",
+    "ProductName": "Cool Product 1",
+    "Description": "World coolest Product 1",
+    "Price": 9,
+    "stock": 10
+  },
+  {
+    "ProductId": "P02",
+    "ProductName": "Cool Product 2",
+    "Description": "World coolest Product 2",
+    "Price": 19,
+    "stock": 29
+  }
+]
