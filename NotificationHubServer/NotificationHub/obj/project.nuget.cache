@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TkJgM3Rg1612GuH1Je7qzHhUxFcGlx4KLVymt8PqmPxUNHoBctqXXBu6woRP8FNtQKTr+3iEY42MEB5QsXso3Q==",
+  "dgSpecHash": "XbfnoufG4B3+vNrEegg7FmC++YT4Lv7S+ypR0W9zkKraLIKAW4xDrbL0Xx3kiTiDw9weYVg7C+ZlVgkb3NIwUw==",
   "success": true,
-  "projectFilePath": "D:\\Full Stack Project\\NotificationHubPartOne-main\\NotificationHubServer\\NotificationHub\\NotificationHub.API.csproj",
+  "projectFilePath": "D:\\Full Stack Project\\NotificationHubPartOne-main\\notification-hub-frontapp\\NotificationHubServer\\NotificationHub\\NotificationHub.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\barra\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\barra\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
