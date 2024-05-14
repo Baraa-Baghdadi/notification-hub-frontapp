@@ -2575,11 +2575,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Full Stack Project\\NotificationHubPartOne-main\\NotificationHubServer\\NotificationHub\\NotificationHub.API.csproj",
+      "projectUniqueName": "D:\\Full Stack Project\\NotificationHubPartOne-main\\notification-hub-frontapp\\NotificationHubServer\\NotificationHub\\NotificationHub.API.csproj",
       "projectName": "NotificationHub.API",
-      "projectPath": "D:\\Full Stack Project\\NotificationHubPartOne-main\\NotificationHubServer\\NotificationHub\\NotificationHub.API.csproj",
+      "projectPath": "D:\\Full Stack Project\\NotificationHubPartOne-main\\notification-hub-frontapp\\NotificationHubServer\\NotificationHub\\NotificationHub.API.csproj",
       "packagesPath": "C:\\Users\\barra\\.nuget\\packages\\",
-      "outputPath": "D:\\Full Stack Project\\NotificationHubPartOne-main\\NotificationHubServer\\NotificationHub\\obj\\",
+      "outputPath": "D:\\Full Stack Project\\NotificationHubPartOne-main\\notification-hub-frontapp\\NotificationHubServer\\NotificationHub\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\barra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2596,8 +2596,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Full Stack Project\\NotificationHubPartOne-main\\NotificationHubServer\\NotificationHub.Domain\\NotificationHub.Domain.csproj": {
-              "projectPath": "D:\\Full Stack Project\\NotificationHubPartOne-main\\NotificationHubServer\\NotificationHub.Domain\\NotificationHub.Domain.csproj"
+            "D:\\Full Stack Project\\NotificationHubPartOne-main\\notification-hub-frontapp\\NotificationHubServer\\NotificationHub.Domain\\NotificationHub.Domain.csproj": {
+              "projectPath": "D:\\Full Stack Project\\NotificationHubPartOne-main\\notification-hub-frontapp\\NotificationHubServer\\NotificationHub.Domain\\NotificationHub.Domain.csproj"
             }
           }
         }

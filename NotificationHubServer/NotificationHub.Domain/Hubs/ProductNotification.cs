@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using NotificationHub.Domain.Data;
 using NotificationHub.Domain.Models.Hubs;
 using System;
@@ -24,6 +24,7 @@ namespace NotificationHub.Domain.Hubs
                 .ToListAsync();
         }
 
+        // add user to group table when subscribe in any group:
         public async Task<SignalRUser> addToGroupTable(SignalRUser newUser)
         {
             var oldUser = await _context.signalRUsers.Where(u => u.UserName == newUser.UserName).ToListAsync();
@@ -54,6 +55,7 @@ namespace NotificationHub.Domain.Hubs
             }
         }
 
+        // remove user from group table when unsubscribe in any group:
         public async Task<SignalRUser> removeFromGroupTable(SignalRUser newUser)
         {
             var oldUser = await _context.signalRUsers.Where(u => u.UserName == newUser.UserName).ToListAsync();
