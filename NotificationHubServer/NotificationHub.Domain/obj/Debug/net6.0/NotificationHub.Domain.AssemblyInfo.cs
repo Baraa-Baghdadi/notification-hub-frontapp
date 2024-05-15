@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NotificationHub.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56b94b0a0a9f3b06cf1462887c25fa1f3295e8d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08fb0406a9c8c6328ca232bbb1bbf480f92fe24c")]
 [assembly: System.Reflection.AssemblyProductAttribute("NotificationHub.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NotificationHub.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
